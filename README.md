@@ -1,4 +1,3 @@
-# vaadin-boot-spring-examples
 Examples using Vaadin, REST and static HTML in a Spring Boot application
 
 Relevant files are:
